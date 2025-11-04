@@ -1,2 +1,2 @@
 console.log('Config.js loaded');
-console
+console.log('Version 3');
