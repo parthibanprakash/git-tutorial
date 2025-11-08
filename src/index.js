@@ -1,2 +1,2 @@
 config.log('Index.js loaded');
-config.log('Version 2');
+config.log('Version 4');
