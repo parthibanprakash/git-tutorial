@@ -1,0 +1,20 @@
+[
+    {"stockName": "Apple Inc.", 
+     "stockCode": "AAPL", 
+     "market": "NASDAQ"},
+    {"stockName": "Microsoft Corporation", 
+     "stockCode": "MSFT", 
+     "market": "NASDAQ"},
+    {"stockName": "Amazon.com, Inc.", 
+     "stockCode": "AMZN", 
+      "market": "NYC"},
+    {"stockName": "Alphabet Inc.", 
+     "stockCode": "GOOGL", 
+     "market": "NASDAQ"},
+     {"stockName": "Tesla, Inc.", 
+     "stockCode": "TSLA", 
+     "market": "NYC"}
+]
+
+
+
